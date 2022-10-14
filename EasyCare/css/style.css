@@ -1,0 +1,751 @@
+
+  /* navbar "female names " */
+.ada{
+    width: 170px !important;
+    height: 65px !important;
+    margin-left: 20px !important;
+}
+
+.alice{
+    text-decoration: none !important;
+    display: flex !important;
+    border: 1px solid #00B5E2 !important ;
+    margin-left: 1000px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    border-radius: 13px !important;
+   
+}
+
+
+.agatha{
+    font-weight: bold !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    color: #101623 !important;
+    text-transform: capitalize !important;
+    
+    
+}
+
+.agogo{
+    margin-right: 5px !important;
+    font-weight: bold !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    color: #101623 !important;
+    text-transform: capitalize !important;
+}
+
+.ades{
+    font-weight: bold !important;
+    padding-left: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 10px !important;
+    padding-right: 20px !important;
+    color: #ffffff !important;
+    background-color: #00B5E2 !important;
+    border-radius: 13px !important;
+    border-color: #00B5E2 !important ;
+}
+
+.ades:hover{
+    color: #00B5E2 !important;
+    background-color: #ffffff !important;
+    border-color: #00B5E2 !important;
+}
+
+.amara{
+    margin-left: 150px !important;
+    
+}
+
+.agatha:hover, .agogo:hover{
+    color: #00B5E2 !important;
+    background-color: #E8F3F1 !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    border-radius: 13px !important;
+    background-color: rgba(209, 228, 250, 0.712) !important;
+    
+    
+}
+
+.alias{
+    border-radius: 13px !important;
+    border: 1px solid #00B5E2 !important ;
+}
+
+.adama{
+    font-weight: bold !important;
+    padding: 20px !important;
+    color: #101623 !important;
+    text-transform: capitalize !important;
+}
+
+.adama:hover{
+    background: linear-gradient(
+    to right,
+    rgba(150, 196, 248, 0.527) 0%,
+    rgba(150, 196, 248, 0.527) 40%,
+    rgb(255, 255, 255) 80%,
+    rgb(255, 255, 255) 90%
+  ) !important;
+
+}
+
+.amn{
+    position: fixed !important;
+    opacity: 0.8 !important;
+    z-index: 9999 !important;
+   /* margin-right: 200px !important; */
+}
+
+/* pic with words "names of vegetables "  */
+.onion{
+    position: relative !important;
+   
+} 
+
+.pumpkin{
+    position: absolute !important;
+    bottom: 280px !important;
+    left: 50px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 30px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+}
+
+
+
+.cabbage{
+    position: absolute !important;
+    bottom: 210px !important;
+    left: 50px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+}
+
+.pepper{
+    width: 100% !important;
+    height: 650px !important;
+}
+
+.lettuce{
+    font-weight: 600  !important;
+    padding-left: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 10px !important;
+    padding-right: 20px !important;
+    color: #ffffff !important;
+    border-color: #00B5E2 !important;
+    background-color: #00B5E2 !important;
+    border-radius: 13px !important;
+    position: absolute !important;
+    bottom: 150px !important;
+    left: 50px !important;
+}
+
+.lettuce:hover, .melon:hover, .peter:hover, .codone:hover{
+    color: #00B5E2 !important;
+    background-color: #ffffff !important;
+    border-color: #00B5E2 !important;
+}
+
+
+
+
+
+/* our doctors "cars" */
+.lexus{
+    padding-bottom: 100px !important;
+}
+
+.nissan{
+    display: flex !important;
+}
+
+.camry{
+    width: 250px !important;
+    height: 250px !important;
+}
+
+.venza{
+    margin-top: 60px !important;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: #00B5E2 ;
+  background: #00b5e279 ; /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 21px;
+  font-weight: bold !important;
+  padding: 20px;
+  text-transform: capitalize !important;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 3;
+}
+
+
+/*our services "names of fruits" */
+
+.cashew{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 40px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    margin-top: 130px !important;
+    text-align: center !important;
+    text-transform: capitalize !important;
+}
+
+.pearl{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+}
+
+.pearls{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: center !important;
+}
+.watermelon{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 25px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    margin-top: 20px !important;
+    margin-right: 50px !important;
+    margin-left: 20px !important;
+    text-align: center !important;
+    text-transform: capitalize !important;
+}
+
+.banana{
+    padding: 30px !important;
+    
+}
+
+.grape{
+    top: 10px !important;
+}
+
+.aa{
+    border: 2px solid rgba(0, 0, 0, 0.527) !important;
+    border-top-style: none !important;
+    border-left-style: none!important ;
+   
+}
+
+.ab{
+    border: 2px solid rgba(0, 0, 0, 0.527) !important;
+    border-top-style: none !important;
+    border-right-style: none !important ;
+}
+
+.ac{
+    border: 2px solid rgba(0, 0, 0, 0.527) !important;
+    border-bottom-style: none !important ;
+    border-left-style: none!important ;
+}
+
+.ad{
+    border: 2px solid rgba(0, 0, 0, 0.527) !important;
+    border-right-style: none !important ;
+    border-bottom-style: none !important ;
+}
+
+.pineapple{
+    background-color: #00b5e21e  !important;
+    padding-top: 5px !important;
+    padding-bottom: 200px !important;
+}
+
+
+/* easycare in the world "bible names"*/
+
+.peter{
+    font-weight: 600  !important;
+    padding-left: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 10px !important;
+    padding-right: 20px !important;
+    color: #ffffff !important;
+    border-color: #00B5E2 !important;
+    background-color: #00B5E2 !important;
+    border-radius: 13px !important;
+    
+}
+
+.john{
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: #101623fa !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+}
+
+.matthew{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 35px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    margin-top: 10px !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+}
+
+.timothy{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+}
+
+.simon{
+    opacity: 90% !important;
+    border-radius: 15px !important;
+    /* margin-right: 50px !important; */
+    margin-top: 50px !important;
+}
+
+.abel{
+    margin-top: 130px !important;
+    margin-bottom: 150px !important;
+}
+
+.cain{
+    margin-left: 150px !important;
+    margin-bottom: 40px !important;
+    margin-top: 60px !important;
+}
+
+.philip{
+    margin-right: 150px !important;
+    margin-bottom: 40px !important;
+    margin-top: 60px !important;
+}
+
+.herod{
+    opacity: 90% !important;
+    border-radius: 15px !important;
+    margin-left: 150px !important;
+    margin-top: 50px !important;
+}
+
+/* app store "antibiotics"*/
+#ampiclox{
+    margin-left: 250px;
+}
+
+
+.ampicillin{
+    height: 800px !important;
+    background-color: #00b5e21e !important ;
+    margin-top: 200px !important;
+
+}
+
+.cloxacillin{
+    text-transform: capitalize !important;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 50px !important;
+    color: #000000 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+
+
+}
+
+.amoxicillin{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 23px !important;
+    color: #303030 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    
+    
+}
+
+.cefuroxime{
+    height: 60px !important;
+}
+
+.cefixime{
+    height: 95px !important;
+}
+
+.cefiximes{
+    height: 65px !important;
+}
+
+/* testimonies */
+
+.card{
+    border: none !important;
+}
+
+.ciprofloxacin{
+    
+    width: 500px !important;
+    height: 350px !important;
+    border-radius: 50% !important;
+    margin-bottom: 40px !important;
+}
+
+.perfloxacin{
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: #101623fa !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+    margin-top: 70px !important;
+}
+
+.norfloxacin{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+}
+
+.ofloxacin{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+.carousel-control-prev{
+    background-color: #00b5e259  !important;
+    opacity: 60% !important;
+    padding: -30px !important;
+    width: 70px !important;
+    height: 70px !important;
+    border-radius: 50% !important;
+    margin-left: 40px ;
+    margin-top: 150px;
+}
+
+.carousel-control-next{
+    background-color: #00b5e259  !important;
+    opacity: 60% !important;
+    padding: -30px !important;
+    width: 70px !important;
+    height: 70px !important;
+    border-radius: 50% !important;
+    margin-right: 40px ;
+    margin-top: 150px;
+}
+
+.carousel-control-next:hover, .carousel-control-prev:hover{
+    background-color: #00b5e2  !important;
+} 
+
+.morfloxacillin{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 50px !important;
+    color: #000000 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: center !important;
+    margin-bottom: 50px !important;
+}
+
+
+/* footer section */
+.amlodipine{
+    background-color: #00b5e21e!important;
+}
+
+.lisinopril{
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 100px ;
+    padding-left: 100px ;
+    padding-right: 100px ;
+}
+
+.ramipril{
+    float: left;
+    width: 50%;
+    flex: 50%;
+}
+
+
+.lisinopril:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.nifedipine{
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+.aldomet{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+}
+
+.vasotec{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+    margin-top: 50px !important ;
+}
+
+.propanolol{
+   list-style:none;
+}
+
+.atenolol{
+    text-decoration: none;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #242527a1 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+    margin-left: 10px !important;
+}
+
+
+.enalapril{
+    text-decoration: none;
+    font-style: normal !important;
+    font-weight: 800 !important;
+    font-size: 25px !important;
+    color: #000000b4 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+    margin-top: 18px;
+    margin-left: 28px ;
+}
+
+.lasix{
+    width: 35px;
+    height: 35px;
+    margin-left: -30px;
+} 
+
+.metoprolol{
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.labetalol{
+    font-style: normal !important;
+    list-style:none;
+    display: flex;
+    margin-top: 15px !important;
+}
+
+.tem{
+    margin-right: 30px !important;
+    margin-left: 40px !important;
+    
+}
+
+.lasixi{
+    width: 30px;
+    height: 30px;
+} 
+
+.hct{
+    text-decoration: none;
+    font-style: normal !important;
+    font-weight: 800 !important;
+    font-size: 20px !important;
+    color: #000000b4 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    text-align: left !important;
+    text-transform: capitalize !important;
+    margin-left: 400px ;
+}
+
+
+
+/* about us page */
+/* easycare */
+.samsung{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 40px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    margin-top: 110px !important;
+    margin-bottom: 35px;
+    text-align: center !important;
+    text-transform: capitalize !important;
+}
+
+.itel{
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 100px ;
+    padding-left: 100px ;
+    padding-right: 100px ;
+}
+
+.vivo{
+    float: left;
+    width: 50%;
+    flex: 50%;
+    border: 1px solid #00b5e227 !important ;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px;
+    border-radius: 13px !important;
+    margin-right: 20px ;
+   
+}
+
+
+/* .itel:after {
+    content: "";
+    display: table;
+    clear: both;
+} */
+
+/* our executives */
+.morphine{
+    margin-top: 80px !important;
+}
+
+.codeine{
+    margin-right: 90px !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px;
+    border-bottom-left-radius: 7% !important;
+    border-bottom-right-radius: 7% !important;
+    border-top-left-radius: 7% !important;
+    border-top-right-radius: 7% !important;
+    border: 1px solid rgba(209, 228, 250, 0.527) !important;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+    position: relative;
+}
+
+.piroxicam{
+    border-radius: 50% !important;
+    height: 250px ;
+    width: 250px ;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.acetaminophen{
+    border: none !important;
+    opacity: 0.5;
+}
+
+.tramadol{
+    height: 50px ;
+    width: 50px ;
+}
+
+.lofnac{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 25px !important;
+    color: #101623 !important;
+    font-family: 'Trebuchet MS', sans-serif !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px;
+    text-transform: capitalize !important;
+}
+
+.codone{
+    font-weight: 600  !important;
+    padding-left: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 10px !important;
+    padding-right: 20px !important;
+    color: #ffffff !important;
+    border-color: #00B5E2 !important;
+    background-color: #00B5E2 !important;
+    border-radius: 13px !important;
+    float: left;
+    margin-bottom: 20px;
+    
+}
+
+.condom{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 10px !important;
+    padding-right: 20px !important;
+   
+}
+
+.lenovo{
+    background-color: #00b5e21e  !important;
+    padding-top: 4.5px !important;
+    padding-bottom: 200px !important;
+}
